@@ -5,7 +5,7 @@ const data = [
 		title: 'Solar-Powered Monorail Revolutionizes Urban Transportation',
 		content:
 			"The world's first solar-powered monorail system has been unveiled in Berlin, promising cleaner, faster, and more efficient public transport for its residents.",
-		name: 'RubeusH',
+		name: 'Olivia Martinez',
 		date: new Date(Date.now() - 15000000)
 	},
 	{
@@ -14,7 +14,7 @@ const data = [
 		title: 'Animal Communication Breakthrough: The Chirp App',
 		content:
 			"Scientists have developed the Chirp App, enabling pet owners to communicate with their pets through translated vocalizations, revolutionizing human-animal relationships.",
-		name: 'Baddock',
+		name: 'Ethan Nguyen',
 		date: new Date(Date.now() - 90000000)
 	},
 	{
@@ -23,7 +23,7 @@ const data = [
 		title: 'Virtual Reality Farming: Feeding the World through Innovation',
 		content:
 			'A new virtual reality farming system has been introduced, allowing users to cultivate crops in a virtual environment, with real-world agricultural benefits.',
-		name: 'Hetty',
+		name: 'Isabella Patel',
 		date: new Date(Date.now() - 900000)
 	},
 	{
@@ -32,7 +32,7 @@ const data = [
 		title: 'The Sleep Revolution: Dream Inc.',
 		content:
 			' Dream Inc. has launched a groundbreaking wearable device that enhances the quality of sleep, promoting better physical and mental health for users.',
-		name: 'Alphard',
+		name: 'Jackson OConnor',
 		date: new Date(Date.now() - 5000)
 	},
 	{
@@ -41,7 +41,7 @@ const data = [
 		title: 'Nano-Recyclers: Tackling Plastic Waste Crisis',
 		content:
 			"Scientists have engineered nano-recyclers that break down plastic waste into reusable materials, presenting a promising solution to the global plastic pollution crisis.",
-		name: 'Baruffio',
+		name: 'Ava Chen',
 		date: new Date(Date.now() - 10000000)
 	},
 	{
@@ -50,7 +50,7 @@ const data = [
 		title: 'Food Printer 3000: The Future of Home Cooking',
 		content:
 			'The Food Printer 3000 allows users to print fully-cooked, customized meals at home, changing the way people prepare and consume food.',
-		name: 'Hbeery',
+		name: 'Aiden Kim',
 		date: new Date(Date.now() - 5000000)
 	},
 	{
@@ -59,7 +59,7 @@ const data = [
 		title: 'Project Oceanus: Rebuilding Coral Reefs with 3D Printing',
 		content:
 			'Scientists have successfully restored a damaged coral reef using 3D printed structures, offering new hope for marine conservation efforts worldwide.',
-		name: 'Alatar',
+		name: 'Sophia Washington',
 		date: new Date(Date.now() - 600000)
 	},
 	{
@@ -68,7 +68,7 @@ const data = [
 		title: 'Astronauts Discover New Bacterial Species in Space',
 		content:
 			'Astronauts aboard the International Space Station have discovered a new bacterial species with potential applications in biotechnology and medicine.',
-		name: 'Falco',
+		name: 'Daniel Thompson',
 		date: new Date(Date.now() - 60000000)
 	},
 	{
@@ -77,7 +77,7 @@ const data = [
 		title: 'Robo-Taxis: The Rise of Autonomous Transportation',
 		content:
 			'Autonomous robo-taxis are now available in several major cities, offering a safer and more efficient transportation option for urban dwellers.',
-		name: 'Otto',
+		name: 'Charlotte Garcia',
 		date: new Date(Date.now() - 3000000)
 	},
 	{
@@ -86,7 +86,7 @@ const data = [
 		title: 'The Mindful Revolution: Brain-Computer Interfaces for Meditation',
 		content:
 			'New brain-computer interface technology allows users to improve their meditation practices, enhancing mental wellbeing and stress reduction.',
-		name: 'Cuthbert',
+		name: 'Samuel Rodriguez',
 		date: new Date(Date.now() - 6000000)
 	},
 	{
@@ -94,7 +94,7 @@ const data = [
 		upvotes: 46,
 		title: 'Eco-Fashion: Clothing Made from Algae',
 		content: 'A startup company has introduced sustainable clothing made from algae fibers, reducing the environmental impact of the fashion industry.',
-		name: 'Humphrey22',
+		name: 'Amelia Jones',
 		date: new Date(Date.now() - 50000)
 	},
 	{
@@ -103,7 +103,7 @@ const data = [
 		title: 'The Language of Trees: Decoding Forest Communication',
 		content:
 			"Researchers have discovered complex communication networks among trees, revealing new insights into forest ecosystems and their responses to environmental changes.",
-		name: 'Bellatrix1',
+		name: 'William Taylor',
 		date: new Date(Date.now() - 6000000)
 	},
 	{
@@ -112,7 +112,7 @@ const data = [
 		title: 'A Cure for Baldness: Gene Therapy Breakthrough',
 		content:
 			'Scientists have developed a gene therapy treatment that regenerates hair follicles, offering a potential cure for baldness.',
-		name: 'Dracod',
+		name: 'Emma Smith',
 		date: new Date(Date.now() - 60000)
 	},
 	{
@@ -120,7 +120,7 @@ const data = [
 		upvotes: 10,
 		title: 'Worlds First Holographic Concert: A New Era of Live Music',
 		content: 'A groundbreaking holographic concert has taken place in Tokyo, featuring realistic holographic musicians and revolutionizing the live music experience.',
-		name: 'Lupin',
+		name: 'Benjamin Jackson',
 		date: new Date()
 	}
 ];
