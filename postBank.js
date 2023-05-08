@@ -2,124 +2,124 @@ const data = [
 	{
 		id: 1,
 		upvotes: 257,
-		title: 'Fianto Duri, the complete tutorial',
+		title: 'Solar-Powered Monorail Revolutionizes Urban Transportation',
 		content:
-			"Fianto Duri is a charm that was created to be combined with protective spells (Can be used with another person's shield spell)(When used on something else creates a explosion). As we already knows the (i.e.) Shield Charm needs the caster to stay focused on the spell in order to continue protecting him, so Fianto Duri allows the caster to keep a charm “alive” while he does some other work or casts some other spells.",
+			"The world's first solar-powered monorail system has been unveiled in Berlin, promising cleaner, faster, and more efficient public transport for its residents.",
 		name: 'RubeusH',
 		date: new Date(Date.now() - 15000000)
 	},
 	{
 		id: 2,
 		upvotes: 221,
-		title: 'Untransfiguration classes to become compulsory at Hogwarts',
+		title: 'Animal Communication Breakthrough: The Chirp App',
 		content:
-			"Learning untransfiguration is going to be mandatory at Hogwarts School of Witchcraft and Wizardry from 2017 onward. Untransfiguration will be covered in beginner-level spellbooks such as A Beginner's Guide to Transfiguration. Failure to at least attempt to untranfigure a wrongly-done transfiguration will be considered irresponsible.",
+			"Scientists have developed the Chirp App, enabling pet owners to communicate with their pets through translated vocalizations, revolutionizing human-animal relationships.",
 		name: 'Baddock',
 		date: new Date(Date.now() - 90000000)
 	},
 	{
 		id: 3,
 		upvotes: 198,
-		title: 'Cracking the Aurologist Interview',
+		title: 'Virtual Reality Farming: Feeding the World through Innovation',
 		content:
-			'Now in the 5th edition, Cracking the Aurologist Interview gives you the interview preparation you need to get the top aura study jobs. The book is over 500 pages and includes 150 aurologist interview questions and answers, as well as other advice.',
+			'A new virtual reality farming system has been introduced, allowing users to cultivate crops in a virtual environment, with real-world agricultural benefits.',
 		name: 'Hetty',
 		date: new Date(Date.now() - 900000)
 	},
 	{
 		id: 4,
 		upvotes: 171,
-		title: 'ASK WN: What do you use to digitalize your scrolls?',
+		title: 'The Sleep Revolution: Dream Inc.',
 		content:
-			'Some scrolls need conservation treatment before they can be safely transported, handled, and digitized.  After these questions are answered, Preservation and Information Technology Specialists assess the project requirements and create the digitilized version.',
+			' Dream Inc. has launched a groundbreaking wearable device that enhances the quality of sleep, promoting better physical and mental health for users.',
 		name: 'Alphard',
 		date: new Date(Date.now() - 5000)
 	},
 	{
 		id: 5,
 		upvotes: 166,
-		title: 'The Pragmatic Dragon Feeder',
+		title: 'Nano-Recyclers: Tackling Plastic Waste Crisis',
 		content:
-			"In The Pragmatic Dragon Feeder, the author Baruffio tell us how to give food to dragons in a way that we can follow. How did they get so smart? Aren't they just as focused on details as other dragon feeders? The answer is that they paid attention to what they were doing while they were doing it.",
+			"Scientists have engineered nano-recyclers that break down plastic waste into reusable materials, presenting a promising solution to the global plastic pollution crisis.",
 		name: 'Baruffio',
 		date: new Date(Date.now() - 10000000)
 	},
 	{
 		id: 6,
 		upvotes: 145,
-		title: 'The complete quidditch statistics',
+		title: 'Food Printer 3000: The Future of Home Cooking',
 		content:
-			'This is the Complete source for quidditch history including complete player, team, and league stats, awards, records, leaders, rookies and scores.',
+			'The Food Printer 3000 allows users to print fully-cooked, customized meals at home, changing the way people prepare and consume food.',
 		name: 'Hbeery',
 		date: new Date(Date.now() - 5000000)
 	},
 	{
 		id: 7,
 		upvotes: 126,
-		title: 'Ordinary Wizarding Levels study guide',
+		title: 'Project Oceanus: Rebuilding Coral Reefs with 3D Printing',
 		content:
-			'The Ordinary Wizarding Level (O.W.L.) is, as you know, going to determine whether or not you will be allowed to continue taking that subject in subsequent school years, and whether they might be successful in obtaining a particular job. This guide help direct you to the most important information you need to know to ace the test',
+			'Scientists have successfully restored a damaged coral reef using 3D printed structures, offering new hope for marine conservation efforts worldwide.',
 		name: 'Alatar',
 		date: new Date(Date.now() - 600000)
 	},
 	{
 		id: 8,
 		upvotes: 114,
-		title: 'Is muggle-baiting ever acceptable?',
+		title: 'Astronauts Discover New Bacterial Species in Space',
 		content:
-			'Muggle-baiting can be a manifestation of anti-Muggle sentiments and is not acceptable according to the International Statute of Wizarding Secrecy - But, are there any circumstances under which it could be acceptable?',
+			'Astronauts aboard the International Space Station have discovered a new bacterial species with potential applications in biotechnology and medicine.',
 		name: 'Falco',
 		date: new Date(Date.now() - 60000000)
 	},
 	{
 		id: 9,
 		upvotes: 102,
-		title: 'Conserving waterplants cheatsheet.',
+		title: 'Robo-Taxis: The Rise of Autonomous Transportation',
 		content:
-			'This Cheat Sheet is dedicated to providing wizards the information they want in an approachable, entertaining way.',
+			'Autonomous robo-taxis are now available in several major cities, offering a safer and more efficient transportation option for urban dwellers.',
 		name: 'Otto',
 		date: new Date(Date.now() - 3000000)
 	},
 	{
 		id: 10,
 		upvotes: 59,
-		title: 'Could wizards prevent WW3?',
+		title: 'The Mindful Revolution: Brain-Computer Interfaces for Meditation',
 		content:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae fermentum enim. Pellentesque sodales ut risus eu porta. Duis dictum rhoncus semper. Proin accumsan mollis ligula, eget elementum nibh dignissim quis. Proin augue risus, mollis non neque in, molestie rutrum purus. Morbi pretium nisl a commodo.',
+			'New brain-computer interface technology allows users to improve their meditation practices, enhancing mental wellbeing and stress reduction.',
 		name: 'Cuthbert',
 		date: new Date(Date.now() - 6000000)
 	},
 	{
 		id: 11,
 		upvotes: 46,
-		title: 'Show WN: Wand-Extinguishing Protection',
-		content: 'This spell extinguishes the wand the caster is holding, a counter-charm to Lumos.',
+		title: 'Eco-Fashion: Clothing Made from Algae',
+		content: 'A startup company has introduced sustainable clothing made from algae fibers, reducing the environmental impact of the fashion industry.',
 		name: 'Humphrey22',
 		date: new Date(Date.now() - 50000)
 	},
 	{
 		id: 12,
 		upvotes: 30,
-		title: 'Do you still use Alarte Ascendare?',
+		title: 'The Language of Trees: Decoding Forest Communication',
 		content:
-			"You've got levicorpus and Ascendio and wingardium leviosa, so is anyone still using Alarte Ascendare, too? (That is, unless you find wingardium leviosa too difficult to pronounce.)",
+			"Researchers have discovered complex communication networks among trees, revealing new insights into forest ecosystems and their responses to environmental changes.",
 		name: 'Bellatrix1',
 		date: new Date(Date.now() - 6000000)
 	},
 	{
 		id: 13,
 		upvotes: 21,
-		title: 'Mailing lists WN readers ought to know about?',
+		title: 'A Cure for Baldness: Gene Therapy Breakthrough',
 		content:
-			'I love to subscribe to information feeds through mailing list subscription. What do you subscribe to that you think others would benefit by if they were to as well?',
+			'Scientists have developed a gene therapy treatment that regenerates hair follicles, offering a potential cure for baldness.',
 		name: 'Dracod',
 		date: new Date(Date.now() - 60000)
 	},
 	{
 		id: 14,
 		upvotes: 10,
-		title: 'How to tell which spell used on a bug?',
-		content: 'Question: Are ther any non-jinx incantations available to detect which spell used on a bug?',
+		title: 'Worlds First Holographic Concert: A New Era of Live Music',
+		content: 'A groundbreaking holographic concert has taken place in Tokyo, featuring realistic holographic musicians and revolutionizing the live music experience.',
 		name: 'Lupin',
 		date: new Date()
 	}
